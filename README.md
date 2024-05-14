@@ -1,7 +1,7 @@
 # 👋 Hello👋
 
 ### 🔮 I research NLP, the innovation, future and beneficence of models and datasets🔮
-### 🔮 I also am a full stack software builder, with many diverse experience 🔮
+### 🔮 Can also be a full stack software builder, with many diverse experience 🔮
 
 
 ### 🌐 My Projects 🌐
