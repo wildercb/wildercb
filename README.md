@@ -1,6 +1,6 @@
 # 👋 Hello👋
 
-## 🔮 I like to learn about NLP and build applications 🔮
+## 🔮 I am an NLP research and software building professional🔮
 
 ## 🌐 My Projects 🌐
  
