@@ -1,6 +1,6 @@
 # 👋 Hello👋
 
-## 🔮 I am an NLP research and software building professional🔮
+## 🔮 I research NLP, the innovation and future of models and datasets and build software of all kinds🔮
 
 ## 🌐 My Projects 🌐
  
