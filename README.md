@@ -6,7 +6,7 @@ I hope to find novel ways to expand upon the capabilities of existing models, in
 ### 🔮 Can also be a full stack software builder, with many diverse experience 🔮
 With proficiency across many programming languages I hope to use and expand my skills in app development, from backend and database system design to front end and UX design and implementation. While I don't hang up on languages or frameworks and view these as evolving systems in themselves, I find React, Vue and Next Javascript frameworks the most efficient for modern web app development. 
 
-### 🌐 My Projects 🌐
+### 🌐 My Work 🌐
 
  
 Here are some of my favorite projects recently 
@@ -16,7 +16,6 @@ Here are some of my favorite projects recently
 [![Wayback Machine Interpreter](https://img.shields.io/badge/WaybackMachine%20Interpreter-View%20Projects-yellow)](https://github.com/wildercb/wayback-interpreter)
 [![MLSec](https://img.shields.io/badge/MLSec%20-View%20Projects-orange)](https://github.com/theodore-brucker/mlsec)
 [![NER-Reviewer](https://img.shields.io/badge/NER%20Reviewer-View%20Projects-red)](https://github.com/wildercb/ner-reviewer)
-
 
 #### 🚀 🚀
 
