@@ -2,7 +2,7 @@
 
 ## 🔮 I research NLP, the innovation and future of models and datasets and build software of all kinds🔮
 
-## 🌐 My Projects 🌐
+### 🌐 My Projects 🌐
  
 Here are some of my favorite projects recently 
  🔭
@@ -12,11 +12,11 @@ Here are some of my favorite projects recently
 [![MLSec](https://img.shields.io/badge/Wayback%20-View%20Projects-orange)](https://github.com/theodore-brucker/mlsec)
 [![NER-Reviewer](https://img.shields.io/badge/NER%20Reviewer-View%20Projects-red)](https://github.com/wildercb/ner-reviewer)
 
-## 🚀 🚀
+### 🚀 🚀
 
-## 🤖 Always looking for new projects, problems and opportunities 🤖
+### 🤖 Always looking for new projects, problems and opportunities 🤖
 
-## 🔗 Connect with Me 🔗
+### 🔗 Connect with Me 🔗
 
 - **Website**: [yourwebsite.com](https://yourwebsite.com)
 - **Twitter**: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
