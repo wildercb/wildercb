@@ -2,7 +2,7 @@
 
 ### 🔮 
 
-### 🔮 Full stack software builder, with many diverse experience 
+### 🔮 Full stack software builder
 
 
 ### 🌐 Projects 🌐
