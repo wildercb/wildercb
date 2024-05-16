@@ -1,6 +1,6 @@
 # 👋 
 
-### ![Description](https://i.pinimg.com/originals/78/87/66/788766d206b91c5f3a99f1c78f3283a5.gif)
+https://www.pinterest.com/pin/678706606340832585/
 
 ### 🔮 Full stack software builder
 
