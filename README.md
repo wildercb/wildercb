@@ -22,8 +22,8 @@ Here are some of my favorite projects recently
 ### 🤖 Always looking for new projects, problems and opportunities 🤖
 
 
-### 🔗 Connect with Me 🔗
-
+### 🔗 🔗
+<!--
 - **Website**: [yourwebsite.com](https://yourwebsite.com)
 - **Twitter**: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
 - **LinkedIn**: [linkedin.com/in/yourlinkedinhandle](https://linkedin.com/in/yourlinkedinhandle)
