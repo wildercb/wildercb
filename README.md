@@ -1,6 +1,6 @@
 # 👋 
 
-![Spike](https://www.pinterest.com/pin/678706606340832585/)
+![Spike](https://wildercb.github.io/images/Purple_spike.jpeg)
 
 ### 🔮 Full stack software builder
 
@@ -19,14 +19,13 @@ Here are some of my favorite projects recently
 #### 🚀 🚀
 
 
-### 🤖 Always looking for new projects, problems and opportunities 🤖
+### 🤖  🤖
 
 
 ### 🔗 🔗
 <!--
-- **Website**: [yourwebsite.com](https://yourwebsite.com)
-- **Twitter**: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
-- **LinkedIn**: [linkedin.com/in/yourlinkedinhandle](https://linkedin.com/in/yourlinkedinhandle)
+- **Website**: [[yourwebsite.com](https://wildercb.github.io)](https://wildercb.github.io)
+- **LinkedIn**: [wilder-baldwin](https://www.linkedin.com/in/wilder-baldwin-1b1017193/)
 
 🚀
 
