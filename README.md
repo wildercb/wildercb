@@ -25,7 +25,7 @@ Here are some of my favorite recently
 ### 🔗
 - **Website**: [Webpage](https://wildercb.github.io)
 - **LinkedIn**: [wilder-baldwin](https://www.linkedin.com/in/wilder-baldwin-1b1017193/)
-- 🔗
+### 🔗
 <!--
 - **Website**: [Webpage](https://wildercb.github.io)
 - **LinkedIn**: [wilder-baldwin](https://www.linkedin.com/in/wilder-baldwin-1b1017193/)
