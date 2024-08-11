@@ -1,6 +1,6 @@
 # 👋 
 
-![Spike](https://wildercb.github.io/images/Purple_spike.jpeg)
+![Spike](https://giphy.com/embed/xUPGcEliCc7bETyfO8)
 
 ### 🔮 Full stack software builder, Machine learning researcher
 
