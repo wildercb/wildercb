@@ -22,10 +22,12 @@ Here are some of my favorite recently
 ### 🤖  🤖
 
 
-### 🔗 - **Website**: [[yourwebsite.com](https://wildercb.github.io)](https://wildercb.github.io)
-- **LinkedIn**: [wilder-baldwin](https://www.linkedin.com/in/wilder-baldwin-1b1017193/)  🔗
+### 🔗
+- **Website**: [Webpage](https://wildercb.github.io)
+- **LinkedIn**: [wilder-baldwin](https://www.linkedin.com/in/wilder-baldwin-1b1017193/)
+- 🔗
 <!--
-- **Website**: [[yourwebsite.com](https://wildercb.github.io)](https://wildercb.github.io)
+- **Website**: [Webpage](https://wildercb.github.io)
 - **LinkedIn**: [wilder-baldwin](https://www.linkedin.com/in/wilder-baldwin-1b1017193/)
 
 🚀
