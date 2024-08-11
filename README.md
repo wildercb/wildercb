@@ -2,13 +2,13 @@
 
 ![Spike](https://wildercb.github.io/images/Purple_spike.jpeg)
 
-### 🔮 Full stack software builder
+### 🔮 Full stack software builder, Machine learning researcher
 
 
 ### 🌐 Projects 🌐
 
  
-Here are some of my favorite projects recently 
+Here are some of my favorite recently 
  🔭
 [![Privacy Stories](https://img.shields.io/badge/Privacy%20Stories-View%20Project-blue)](https://github.com/wildercb/privacy_stories)
 [![LLM_Training](https://img.shields.io/badge/LLM%20Training-View%20Projects-green)](https://github.com/wildercb/llm_training)
