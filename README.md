@@ -18,9 +18,6 @@ Here are some of my favorite recently
 #### 🚀 Computer science M.S. student as University of Maine 🚀
 
 
-### 🤖  🤖
-
-
 ### 🔗
 - **Website**: [Webpage](https://wildercb.github.io)
 - **LinkedIn**: [wilder-baldwin](https://www.linkedin.com/in/wilder-baldwin-1b1017193/)
@@ -32,6 +29,10 @@ Here are some of my favorite recently
 🚀
 
 <!--
+
+### 🤖  🤖
+
+
 **wildercb/wildercb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
