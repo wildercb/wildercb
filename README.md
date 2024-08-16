@@ -2,6 +2,7 @@
 
 ### 🔮 Full stack software builder, Machine learning researcher
 
+#### Computer science M.S. student as University of Maine 
 
 ### 🌐 Projects 🌐
 
@@ -14,8 +15,6 @@ Here are some of my favorite recently
 [![Wayback Machine Interpreter](https://img.shields.io/badge/WaybackMachine%20Interpreter-View%20Projects-yellow)](https://github.com/wildercb/wayback-interpreter)
 [![Med-Friend](https://img.shields.io/badge/MLSec%20-View%20Projects-orange)](https://github.com/wildercb/csai)
 [![NER-Reviewer](https://img.shields.io/badge/NER%20Reviewer-View%20Projects-red)](https://github.com/wildercb/ner-reviewer)
-
-#### 🚀 Computer science M.S. student as University of Maine 🚀
 
 
 ### 🔗
