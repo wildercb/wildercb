@@ -13,7 +13,7 @@ Here are some of my favorite recently
 [![Privacy Stories](https://img.shields.io/badge/Privacy%20Stories-View%20Project-blue)](https://github.com/wildercb/privacy_stories)
 [![LLM_Training](https://img.shields.io/badge/LLM%20Training-View%20Projects-green)](https://github.com/wildercb/llm_training)
 [![Wayback Machine Interpreter](https://img.shields.io/badge/WaybackMachine%20Interpreter-View%20Projects-yellow)](https://github.com/wildercb/wayback-interpreter)
-[![Med-Friend](https://img.shields.io/badge/Med-Friend%20-View%20Projects-orange)](https://github.com/wildercb/csai)
+[![Med-Friend](https://img.shields.io/badge/MedFriend%20-View%20Projects-orange)](https://github.com/wildercb/csai)
 [![NER-Reviewer](https://img.shields.io/badge/NER%20Reviewer-View%20Projects-red)](https://github.com/wildercb/ner-reviewer)
 
 
