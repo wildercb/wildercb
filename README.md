@@ -1,14 +1,4 @@
 ![Spike](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGgwb2dlNWo2aHU1enFwenRib3JxajFnbWg3M2hocDZyY2RuaGw0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcEliCc7bETyfO8/giphy.webp)
-
-### 🔮 Full stack software builder, Machine learning researcher
-
-#### Computer science M.S. student as University of Maine 
-
-### 🌐 Projects 🌐
-
- 
-Here are some of my favorite recently 
- 🔭
  
 [![Privacy Stories](https://img.shields.io/badge/Privacy%20Stories-View%20Project-blue)](https://github.com/wildercb/privacy_stories)
 [![LLM_Training](https://img.shields.io/badge/LLM%20Training-View%20Project-green)](https://github.com/wildercb/llm_training)
